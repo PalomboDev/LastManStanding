@@ -1,7 +1,0 @@
-main: com.palombodev.cactusmanager.CactusManager
-name: CactusManager
-author: Palombo
-version: 1.0
-commands:
-  cactusmanager:
-    aliases: [cm, cactus]

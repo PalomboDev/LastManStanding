@@ -1,8 +1,0 @@
-tntfill:
-  max-fill-radius: 80
-  command-cooldown: 1.0
-tntprotection:
-  blocks:
-    - "EMERALD_BLOCK"
-    - "GOLD_BLOCK"
-    - "DIAMOND_BLOCK"

@@ -1,5 +1,0 @@
-max-chunk-entities:
-  enabled: true
-  amount: 175
-cactus:
-  growth: true
