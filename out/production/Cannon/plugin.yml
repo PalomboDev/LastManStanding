@@ -1,0 +1,13 @@
+name: Cannon
+version: 1.0.0
+main: co.vanitymc.cannon.Cannon
+authors: [Palombo, Database]
+depend: [WorldEdit]
+commands:
+   schematic:
+       description: Main Command
+       aliases: [schem, shcme]
+   schematicshop:
+       description: Schematic Shop
+       aliases: [schemshop, sm]
+   tntfill:

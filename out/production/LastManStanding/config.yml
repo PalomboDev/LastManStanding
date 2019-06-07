@@ -1,0 +1,41 @@
+####################[Commands]#####################
+## /lms join,leave                               ##
+## /lms start,stop,setspawn,setkit - lms.admin   ##
+###################################################
+
+#################[Game Settings]###################
+settings:
+    ##Time it takes to automatically start in seconds.
+    autostart: 7200
+    ##The game will not start unless this amount of people are in the game.
+    minplayers: 2
+    ##Once this amount of players are in the game nobody will be able to join without the correct permission.
+    maxplayers: 50
+    allowed-commands:
+      - '/lms'
+      - '/lastmanstanding'
+      - '/message'
+      - '/msg'
+      - '/m'
+      - '/reply'
+      - '/r'
+      - '/kick'
+      - '/tempban'
+      - '/ban'
+      - '/tempmute'
+      - '/mute'
+      - '/banip'
+####################################################
+
+####################[Rewards]#####################
+rewards:
+  commands:
+    - '/eco give %player% 20000'
+####################################################
+
+####################[Locations]#####################
+locations:
+  lobby: lms:0.5:4.0:0.5:273.59866:15.900194
+  spawn: lms:0.5:4.0:0.5:273.59866:15.900194
+  knockback: lms:0.5:4.0:0.5:273.59866:15.900194
+####################################################

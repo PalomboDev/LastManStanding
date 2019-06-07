@@ -1,0 +1,8 @@
+main: com.palombodev.lms.LMS
+name: LastManStanding
+authors: [Palombo, Database]
+version: 1.0.0
+depend: [iDisguise]
+commands:
+  lms:
+     aliases: [lastmandstanding]

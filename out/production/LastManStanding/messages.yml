@@ -1,0 +1,104 @@
+usage: |-
+ &8&m&l-------------------------------------&r
+                          &5&lLast Man Standing
+ &r
+ &r &7/lms join
+ &r &7/lms leave
+ &r
+ &8&m&l--------------------------------------&r
+
+adminusage: |-
+ &8&m&l-------------------------------------&r
+                          &5&lLast Man Standing
+ &r
+ &r &7/lms join
+ &r &7/lms leave
+ &r &7/lms start &c[ADMIN]
+ &r &7/lms stop &c[ADMIN]
+ &r &7/lms setlobby &c[ADMIN]
+ &r &7/lms setspawn &c[ADMIN]
+ &r &7/lms setkit &c[ADMIN]
+ &r
+ &8&m&l-------------------------------------&r
+
+joined: |-
+ &8[&5&lLMS&8] &aYou have joined the LMS.
+
+left: |-
+ &8[&5&lLMS&8] &cYou have left the LMS.
+
+alreadyjoined: |-
+ &8[&5&lLMS&8] &4You are already in the LMS.
+
+notjoined: |-
+ &8[&5&lLMS&8] &4You are not in the LMS.
+
+waiting: |-
+  &8[&5&lLMS&8] &7The LMS will begin in &5%time%
+
+hoverclick: |-
+  &5Click here to join the LMS.
+
+notjoinable: |-
+  &8[&5&lLMS&8] &4The LMS is not currently joinable.
+
+alreadystarted: |-
+  &8[&5&lLMS&8] &4The LMS has already been started.
+
+notstarted: |-
+  &8[&5&lLMS&8] &4The LMS is not started.
+
+starting: |-
+  &8[&5&lLMS&8] &7LMS will be starting in &5%time%&7. &5&l[CLICK]
+
+started: |-
+ &8[&5&lLMS&8] &aThe LMS has started.
+
+ended: |-
+ &8[&5&lLMS&8] &4The LMS has ended. &5&lWinner: &7%winner%
+
+countdown: |-
+ &8[&5&lLMS&8] &7You will be teleported in &5%time%&7.
+
+pregame: |-
+ &8[&5&lLMS&8] &7PvP will be enabled in &5%time%&7.
+
+pvp: |-
+ &8[&5&lLMS&8] &aPvP enabled.
+
+pvpdisabled: |-
+ &8[&5&lLMS&8] &4PvP is disabled.
+
+commanddisabled: |-
+ &8[&5&lLMS&8] &4This command is disabled.
+
+notenough: |-
+ &8[&5&lLMS&8] &4Game stopped. Not enough people to start.
+
+lobbyset: |-
+ &8[&5&lLMS&8] &4You have set the lobby point for LMS.
+
+spawnset: |-
+ &8[&5&lLMS&8] &4You have set the spawn point for LMS.
+
+kitset: |-
+ &8[&5&lLMS&8] &4Your inventory has been set as the LMS kit.
+
+maxplayers: |-
+ &8[&5&lLMS&8] &4Max players have joined the LMS.
+
+
+nopermission: |-
+ &8[&5&lLMS&8] &cYou do not have access to this command.
+
+pickkit: |-
+ &8[&5&lLMS&8] &aMake sure to vote for a kit with &a&l/lms vote&a.
+
+kittype: |-
+ &8[&5&lLMS&8] &5%kit% &7kit has been selected.
+
+voted: |-
+ &8[&5&lLMS&8] &cThank you for voting.
+
+alreadyvoted: |-
+ &8[&5&lLMS&8] &cYou have already voted.
